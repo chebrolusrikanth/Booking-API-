@@ -28,14 +28,14 @@ A simple Django-based booking system for a fictional fitness studio. Users can v
 
 1. **Clone the repository** (or unzip):
    ```bash
-   git clone https://github.com/your-username/fitness-studio-booking.git
-   cd fitness-studio-booking
+   git clone https://github.com/chebrolusrikanth/Booking-API-.git
+   cd fitness-booking
    ```
 
 2. **Create a virtual environment**:
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   source venv/bin/activate 
    ```
 
 3. **Install Django**:
@@ -90,7 +90,7 @@ All scheduled within the next week.
 
 ## Loom Video
 
-[🔗 Your Loom walkthrough link here]
+Link : https://www.loom.com/share/f5ae0e12b5b04226bb5f60658f5676d8?sid=df1ca2b7-6272-4813-9763-18f76034a49f
 
 ---
 
