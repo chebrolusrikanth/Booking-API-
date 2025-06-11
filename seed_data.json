@@ -1,0 +1,33 @@
+
+[
+  {
+    "model": "bookings.fitnessclass",
+    "pk": 1,
+    "fields": {
+      "name": "Yoga",
+      "instructor": "Harsha Sai",
+      "datetime": "2025-06-15T08:00:00+05:30",
+      "available_slots": 10
+    }
+  },
+  {
+    "model": "bookings.fitnessclass",
+    "pk": 2,
+    "fields": {
+      "name": "Srikanth CH",
+      "instructor": "Bob",
+      "datetime": "2025-06-16T10:00:00+05:30",
+      "available_slots": 15
+    }
+  },
+  {
+    "model": "bookings.fitnessclass",
+    "pk": 3,
+    "fields": {
+      "name": "HIIT",
+      "instructor": "Sai",
+      "datetime": "2025-06-17T18:00:00+05:30",
+      "available_slots": 12
+    }
+  }
+]
